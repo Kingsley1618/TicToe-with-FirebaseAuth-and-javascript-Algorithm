@@ -1,3 +1,3 @@
 # TicToe
 
-Tic Tac Toe{Tic Tac Toe Link}
+Tic Tac Toe Link{https://csb-386eqm.netlify.app/}
